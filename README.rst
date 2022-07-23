@@ -1,21 +1,6 @@
 messengerbot
 ======================
 
-.. image:: https://img.shields.io/pypi/v/messengerbot.svg
-   :target: https://pypi.python.org/pypi/messengerbot
-.. image:: https://img.shields.io/pypi/dm/messengerbot.svg
-   :target: https://pypi.python.org/pypi/messengerbot
-.. image:: https://secure.travis-ci.org/geeknam/messengerbot.png?branch=master
-   :alt: Build Status
-   :target: http://travis-ci.org/geeknam/messengerbot
-.. image:: https://landscape.io/github/geeknam/messengerbot/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/geeknam/messengerbot/master
-   :alt: Code Health
-.. image:: https://coveralls.io/repos/github/geeknam/messengerbot/badge.svg?branch=master
-   :target: https://coveralls.io/github/geeknam/messengerbot?branch=master
-.. image:: https://img.shields.io/gratipay/geeknam.svg
-   :target: https://gratipay.com/geeknam/
-
 Python client for Messenger Platform API
 
 Installation
